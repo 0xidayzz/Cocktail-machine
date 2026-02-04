@@ -1,0 +1,15 @@
+{
+  "plcMode": "mock",
+  "plc": {
+    "ip": "192.168.1.50",
+    "port": 502,
+    "unitId": 1
+  },
+  "map": {
+    "jobRegBase": 100,
+    "startCoil": 0,
+    "statusRegBase": 200
+  },
+  "pollMs": 250,
+  "httpPort": 3001
+}

@@ -1,0 +1,6 @@
+[
+  { "id": "orange", "name": "Jus d’orange", "bottle_ml": 1000, "pump": 1 },
+  { "id": "ananas", "name": "Jus d’ananas", "bottle_ml": 1000, "pump": 2 },
+  { "id": "sprite", "name": "Soda citron", "bottle_ml": 1500, "pump": 3 },
+  { "id": "cola", "name": "Cola", "bottle_ml": 1500, "pump": 4 }
+]

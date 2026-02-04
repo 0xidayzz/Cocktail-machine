@@ -1,0 +1,46 @@
+[
+  {
+    "id": "tropical_mix",
+    "name": "Tropical Mix",
+    "price": 2.5,
+    "ingredients": [
+      { "id": "orange", "pct": 30 },
+      { "id": "ananas", "pct": 30 },
+      { "id": "sprite", "pct": 25 },
+      { "id": "cola", "pct": 15 }
+    ]
+  },
+  {
+    "id": "citrus_fresh",
+    "name": "Citrus Fresh",
+    "price": 2.0,
+    "ingredients": [
+      { "id": "orange", "pct": 40 },
+      { "id": "sprite", "pct": 35 },
+      { "id": "ananas", "pct": 15 },
+      { "id": "cola", "pct": 10 }
+    ]
+  },
+  {
+    "id": "pine_dream",
+    "name": "Pine Dream",
+    "price": 2.2,
+    "ingredients": [
+      { "id": "ananas", "pct": 45 },
+      { "id": "orange", "pct": 25 },
+      { "id": "sprite", "pct": 20 },
+      { "id": "cola", "pct": 10 }
+    ]
+  },
+  {
+    "id": "rainbow_soft",
+    "name": "Rainbow Soft",
+    "price": 1.8,
+    "ingredients": [
+      { "id": "orange", "pct": 25 },
+      { "id": "ananas", "pct": 25 },
+      { "id": "sprite", "pct": 25 },
+      { "id": "cola", "pct": 25 }
+    ]
+  }
+]

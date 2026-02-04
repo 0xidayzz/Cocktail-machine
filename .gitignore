@@ -1,0 +1,21 @@
+# Node
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+
+# Logs
+**/*.log
+backend/backend.log
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vite
+ui/.vite/
+
+# Lockfiles (option: garde seulement ceux que tu veux)
+# (recommandé: GARDER package-lock.json)
