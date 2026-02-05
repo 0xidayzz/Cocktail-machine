@@ -272,18 +272,4 @@ Multi-machines
 
 👨‍💻 Auteur
 
-Projet personnel – Machine à cocktail automatisée
-
-
----
-
-## Prochaine étape possible (si tu veux)
-
-Je peux maintenant t’aider à :
-
-👉 intégrer le frontend directement dans le backend (mode borne autonome)  
-👉 préparer un script “one-click install” pour Raspberry  
-👉 sécuriser l’admin  
-👉 faire un backup automatique
-
-Dis-moi ce que tu veux améliorer ensuite.
+- Oxidayzz
